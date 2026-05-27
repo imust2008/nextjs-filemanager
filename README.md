@@ -1,6 +1,6 @@
 # 文件管理系统
 
-基于 Next.js + Ant Design + TypeScript 的文件管理系统，使用服务端渲染技术。
+基于 Next.js + Ant Design + TypeScript 的文件管理系统。
 
 ## 功能特性
 
